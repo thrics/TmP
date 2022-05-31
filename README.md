@@ -1,3 +1,3 @@
 # TmP
-Temporary repoqitory.
+Temporary repository.</br>
 Still learning how ro use GitHub...
